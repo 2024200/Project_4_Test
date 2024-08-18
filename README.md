@@ -17,7 +17,7 @@ This dashboard allows stakeholders to gain a clear understanding of each locatio
 
 ### Dataset
 
-The full dataset is linked here [Link](https://mavenanalytics.io/data-playground?order=date_added%2Cdesc&pageSize=10&search=coffe)
+The full dataset is linked here [Link](https://mavenanalytics.io/data-playground?order=date_added%2Cdesc&pageSize=10&search=coffee%20shop%20sales)
 
 149,116 entries, total 11 columns
 
